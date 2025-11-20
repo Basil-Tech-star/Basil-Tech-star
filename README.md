@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BASIL WABUKE, A graduate with a degree in Bachelor of Science in Information Technology
+- 👋 Hi, I’m @BASIL WABUKE, A graduate with a degree in Bachelor of Science in Information Technology, Professional Certificate in Software Engineering, and Artificial Intelligence.
 - 👀 I’m interested in software development, tech engineering, and Cybersecurity.
 🌱 I’m a Full Stack Software Developer, an IT technical support specialist, and a cybersecurity expert with freelancing roles in ALL.
 - 💞️ I’m looking to collaborate on projects both on front-end and backend technologies to sharpen my skills 
